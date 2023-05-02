@@ -5,4 +5,3 @@ if (obj_player.state != 51)
     global.tomatofollow = 1
     panic = 0
 }
-global.collect += 1000
