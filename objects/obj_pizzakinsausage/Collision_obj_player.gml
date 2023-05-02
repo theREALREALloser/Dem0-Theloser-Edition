@@ -4,5 +4,5 @@ if (obj_player.state != 51)
 {
     global.sausagefollow = 1
     panic = 0
-	global.collect += 1000
 }
+global.collect += 1000
