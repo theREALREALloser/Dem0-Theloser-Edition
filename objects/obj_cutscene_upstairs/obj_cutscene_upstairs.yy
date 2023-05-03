@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_cutscene_upstairs",
   "spriteId": {
     "name": "spr_cutscene_upstairs",
     "path": "sprites/spr_cutscene_upstairs/spr_cutscene_upstairs.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,8 +25,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_cutscene_upstairs","path":"objects/obj_cutscene_upstairs/obj_cutscene_upstairs.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_cutscene_upstairs","path":"objects/obj_cutscene_upstairs/obj_cutscene_upstairs.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,8 +34,4 @@
     "name": "cutscene",
     "path": "folders/Objects/gamesettings/cutscene.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_cutscene_upstairs",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "volcano2_props",
   "spriteId": {
     "name": "spr_volcanoprops2",
     "path": "sprites/spr_volcanoprops2/spr_volcanoprops2.yy",
@@ -291,8 +294,4 @@
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "volcano2_props",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

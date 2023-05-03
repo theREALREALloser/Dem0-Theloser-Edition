@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_secretwall2",
   "spriteId": {
     "name": "spr_secretwall2",
     "path": "sprites/spr_secretwall2/spr_secretwall2.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -30,8 +34,4 @@
     "name": "misc",
     "path": "folders/Objects/generalobjects/misc.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_secretwall2",
-  "tags": [],
-  "resourceType": "GMObject",
 }

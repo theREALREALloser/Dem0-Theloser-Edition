@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_sausagemancigar",
   "spriteId": {
     "name": "spr_cigar_idle",
     "path": "sprites/spr_cigar_idle/spr_cigar_idle.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_sausagemancigar","path":"objects/obj_sausagemancigar/obj_sausagemancigar.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,8 +36,4 @@
     "name": "sausageman",
     "path": "folders/Objects/generalobjects/baddie/enemies/sausageman.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_sausagemancigar",
-  "tags": [],
-  "resourceType": "GMObject",
 }

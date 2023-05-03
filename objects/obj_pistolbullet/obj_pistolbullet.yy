@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_pistolbullet",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "hitbox",
     "path": "folders/Objects/hitbox.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_pistolbullet",
-  "tags": [],
-  "resourceType": "GMObject",
 }

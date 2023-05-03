@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_chainsawhitbox",
   "spriteId": {
     "name": "spr_chainsawhitbox",
     "path": "sprites/spr_chainsawhitbox/spr_chainsawhitbox.yy",
   },
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,9 +25,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_chainsawhitbox","path":"objects/obj_chainsawhitbox/obj_chainsawhitbox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_chainsawhitbox","path":"objects/obj_chainsawhitbox/obj_chainsawhitbox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_collisionparent","path":"objects/obj_collisionparent/obj_collisionparent.yy",},"parent":{"name":"obj_chainsawhitbox","path":"objects/obj_chainsawhitbox/obj_chainsawhitbox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_collisionparent","path":"objects/obj_collisionparent/obj_collisionparent.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,8 +35,4 @@
     "name": "hitbox",
     "path": "folders/Objects/hitbox.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_chainsawhitbox",
-  "tags": [],
-  "resourceType": "GMObject",
 }

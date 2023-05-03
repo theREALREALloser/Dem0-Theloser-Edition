@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_chainsaweffect",
   "spriteId": {
     "name": "spr_chainsaweffect",
     "path": "sprites/spr_chainsaweffect/spr_chainsaweffect.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "effect",
     "path": "folders/Objects/effect.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_chainsaweffect",
-  "tags": [],
-  "resourceType": "GMObject",
 }

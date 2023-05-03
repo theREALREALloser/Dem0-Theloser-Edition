@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_curfloor",
   "spriteId": {
     "name": "spr_youarehere",
     "path": "sprites/spr_youarehere/spr_youarehere.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "cutscene",
     "path": "folders/Objects/gamesettings/cutscene.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_curfloor",
-  "tags": [],
-  "resourceType": "GMObject",
 }

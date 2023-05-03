@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sfx_golfmach1",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_golfmach1",
-  "duration": 1.49397993,
+  "duration": 1.4939799,
   "parent": {
     "name": "GOLF",
     "path": "folders/Sounds/sound settings/GOLF.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sfx_golfmach1",
-  "tags": [],
-  "resourceType": "GMSound",
 }

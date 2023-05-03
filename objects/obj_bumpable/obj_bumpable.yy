@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_bumpable",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -27,8 +31,4 @@
     "name": "collide",
     "path": "folders/Objects/generalobjects/collide.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_bumpable",
-  "tags": [],
-  "resourceType": "GMObject",
 }

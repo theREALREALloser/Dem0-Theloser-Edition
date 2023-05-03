@@ -75,6 +75,6 @@
   "nineSlice": null,
   "parent": {
     "name": "trash",
-    "path": "folders/Sprites/baddie/trash.yy",
+    "path": "folders/Sprites/tilesets/castle/baddie/trash.yy",
   },
 }

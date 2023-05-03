@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "castle",
   "spriteId": {
     "name": "tile_castle",
     "path": "sprites/tile_castle/tile_castle.yy",
@@ -135,8 +138,4 @@
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "castle",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

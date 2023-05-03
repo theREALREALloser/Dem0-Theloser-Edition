@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_ballparent",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -27,8 +31,4 @@
     "name": "general",
     "path": "folders/Objects/generalobjects/hazard/general.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_ballparent",
-  "tags": [],
-  "resourceType": "GMObject",
 }

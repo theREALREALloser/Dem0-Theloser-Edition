@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_hookend",
   "spriteId": {
     "name": "spr_secretwalllvl2",
     "path": "sprites/spr_secretwalllvl2/spr_secretwalllvl2.yy",
   },
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "general",
     "path": "folders/Objects/generalobjects/hazard/general.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_hookend",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,8 +1,12 @@
 {
+  "resourceType": "GMFont",
+  "resourceVersion": "1.0",
+  "name": "font0",
   "hinting": 0,
   "glyphOperations": 0,
   "interpreter": 0,
   "pointRounding": 0,
+  "applyKerning": 0,
   "fontName": "Core Sans G",
   "styleName": "65 Bold",
   "size": 12.0,
@@ -20,6 +24,7 @@
     "path": "texturegroups/Default",
   },
   "ascenderOffset": 0,
+  "ascender": 0,
   "glyphs": {
     "32": {"x":2,"y":2,"w":5,"h":18,"character":32,"shift":5,"offset":0,},
     "33": {"x":195,"y":42,"w":3,"h":18,"character":33,"shift":5,"offset":1,},
@@ -688,8 +693,4 @@
     "name": "Fonts",
     "path": "folders/Fonts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "font0",
-  "tags": [],
-  "resourceType": "GMFont",
 }

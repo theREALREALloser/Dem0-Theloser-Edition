@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "volcano",
   "spriteId": {
     "name": "sprite412",
     "path": "sprites/sprite412/sprite412.yy",
@@ -19,7 +22,7 @@
   "out_columns": 8,
   "tile_count": 72,
   "autoTileSets": [
-    {"tiles":[
+    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_1","tiles":[
         26,
         43,
         42,
@@ -67,7 +70,7 @@
         40,
         51,
         52,
-      ],"closed_edge":false,"resourceVersion":"1.0","name":"autotile_1","tags":[],"resourceType":"GMAutoTileSet",},
+      ],"closed_edge":false,},
   ],
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
@@ -157,8 +160,4 @@
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "volcano",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

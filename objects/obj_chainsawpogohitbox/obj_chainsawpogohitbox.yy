@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_chainsawpogohitbox",
   "spriteId": {
     "name": "spr_chainsawpogomask",
     "path": "sprites/spr_chainsawpogomask/spr_chainsawpogomask.yy",
   },
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,8 +25,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_chainsawpogohitbox","path":"objects/obj_chainsawpogohitbox/obj_chainsawpogohitbox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_chainsawpogohitbox","path":"objects/obj_chainsawpogohitbox/obj_chainsawpogohitbox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,8 +34,4 @@
     "name": "hitbox",
     "path": "folders/Objects/hitbox.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_chainsawpogohitbox",
-  "tags": [],
-  "resourceType": "GMObject",
 }

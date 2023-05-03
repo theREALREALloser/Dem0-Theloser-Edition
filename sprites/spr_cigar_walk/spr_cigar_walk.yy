@@ -103,6 +103,6 @@
   "nineSlice": null,
   "parent": {
     "name": "cigar",
-    "path": "folders/Sprites/baddie/sausageman/cigar.yy",
+    "path": "folders/Sprites/tilesets/castle/baddie/sausageman/cigar.yy",
   },
 }

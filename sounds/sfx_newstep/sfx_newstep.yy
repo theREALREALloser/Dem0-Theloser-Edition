@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sfx_newstep",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -16,8 +20,4 @@
     "name": "BOTH???",
     "path": "folders/Sounds/sound settings/BOTH???.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sfx_newstep",
-  "tags": [],
-  "resourceType": "GMSound",
 }

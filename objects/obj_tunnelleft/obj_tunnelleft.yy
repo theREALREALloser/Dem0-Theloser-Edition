@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_tunnelleft",
   "spriteId": {
     "name": "sprite467",
     "path": "sprites/sprite467/sprite467.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "tunnelmask",
     "path": "sprites/tunnelmask/tunnelmask.yy",
@@ -24,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"parent":{"name":"obj_tunnelleft","path":"objects/obj_tunnelleft/obj_tunnelleft.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,8 +36,4 @@
     "name": "proto",
     "path": "folders/Objects/proto.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_tunnelleft",
-  "tags": [],
-  "resourceType": "GMObject",
 }

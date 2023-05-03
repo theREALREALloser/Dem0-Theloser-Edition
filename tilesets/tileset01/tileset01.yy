@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tileset01",
   "spriteId": {
     "name": "tile_towerbg",
     "path": "sprites/tile_towerbg/tile_towerbg.yy",
@@ -135,8 +138,4 @@
     "name": "classic",
     "path": "folders/Tile Sets/classic.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tileset01",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

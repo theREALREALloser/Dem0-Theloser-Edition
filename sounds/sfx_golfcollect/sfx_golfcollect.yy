@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sfx_golfcollect",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -16,8 +20,4 @@
     "name": "GOLF",
     "path": "folders/Sounds/sound settings/GOLF.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sfx_golfcollect",
-  "tags": [],
-  "resourceType": "GMSound",
 }

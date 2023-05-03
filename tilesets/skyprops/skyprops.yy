@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "skyprops",
   "spriteId": {
     "name": "tile_skyprops",
     "path": "sprites/tile_skyprops/tile_skyprops.yy",
@@ -291,8 +294,4 @@
     "name": "sky",
     "path": "folders/Tile Sets/sky.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "skyprops",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

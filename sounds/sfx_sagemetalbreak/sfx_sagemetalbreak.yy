@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sfx_sagemetalbreak",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -16,8 +20,4 @@
     "name": "SAGE",
     "path": "folders/Sounds/sound settings/SAGE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sfx_sagemetalbreak",
-  "tags": [],
-  "resourceType": "GMSound",
 }

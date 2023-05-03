@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sfx_sjump",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_sjump",
-  "duration": 1.61926293,
+  "duration": 1.6192629,
   "parent": {
     "name": "BOTH???",
     "path": "folders/Sounds/sound settings/BOTH???.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sfx_sjump",
-  "tags": [],
-  "resourceType": "GMSound",
 }

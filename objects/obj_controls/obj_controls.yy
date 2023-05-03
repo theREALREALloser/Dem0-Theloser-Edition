@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_controls",
   "spriteId": {
     "name": "spr_controls",
     "path": "sprites/spr_controls/spr_controls.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "title",
     "path": "folders/Objects/gamesettings/title.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_controls",
-  "tags": [],
-  "resourceType": "GMObject",
 }

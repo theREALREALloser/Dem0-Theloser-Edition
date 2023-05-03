@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "sky",
   "spriteId": {
     "name": "tile_sky",
     "path": "sprites/tile_sky/tile_sky.yy",
@@ -19,7 +22,7 @@
   "out_columns": 7,
   "tile_count": 48,
   "autoTileSets": [
-    {"tiles":[
+    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_1","tiles":[
         6,
         29,
         24,
@@ -67,7 +70,7 @@
         15,
         12,
         16,
-      ],"closed_edge":false,"resourceVersion":"1.0","name":"autotile_1","tags":[],"resourceType":"GMAutoTileSet",},
+      ],"closed_edge":false,},
   ],
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
@@ -125,16 +128,20 @@
     "SerialiseFrameCount": 1,
   },
   "macroPageTiles": {
-    "SerialiseWidth": 0,
-    "SerialiseHeight": 0,
-    "TileSerialiseData": [],
+    "TileDataFormat": 1,
+    "SerialiseWidth": 5,
+    "SerialiseHeight": 15,
+    "TileCompressedData": [
+      3,
+      14,
+      15,
+      6,
+      -72,
+      0,
+    ],
   },
   "parent": {
     "name": "sky",
     "path": "folders/Tile Sets/sky.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sky",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

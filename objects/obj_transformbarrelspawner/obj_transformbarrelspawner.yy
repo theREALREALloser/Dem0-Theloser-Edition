@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_transformbarrelspawner",
   "spriteId": {
     "name": "spr_barrel",
     "path": "sprites/spr_barrel/spr_barrel.yy",
   },
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,8 +25,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_transformbarrelspawner","path":"objects/obj_transformbarrelspawner/obj_transformbarrelspawner.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":4,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_transformbarrelspawner","path":"objects/obj_transformbarrelspawner/obj_transformbarrelspawner.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":4,"eventType":7,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,8 +34,4 @@
     "name": "barrel",
     "path": "folders/Objects/generalobjects/transfo/barrel.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_transformbarrelspawner",
-  "tags": [],
-  "resourceType": "GMObject",
 }

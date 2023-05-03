@@ -91,6 +91,6 @@
   "nineSlice": null,
   "parent": {
     "name": "forknight",
-    "path": "folders/Sprites/baddie/forknight.yy",
+    "path": "folders/Sprites/tilesets/castle/baddie/forknight.yy",
   },
 }

@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "music_escapetheme.mp3",
-  "duration": 222.09306,
+  "soundFile": "music_escapetheme.wav",
+  "duration": 229.45961,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

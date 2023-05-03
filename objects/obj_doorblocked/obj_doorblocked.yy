@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_doorblocked",
   "spriteId": {
     "name": "sprite255",
     "path": "sprites/sprite255/sprite255.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "door",
     "path": "folders/Objects/generalobjects/door.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_doorblocked",
-  "tags": [],
-  "resourceType": "GMObject",
 }

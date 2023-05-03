@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "skyprops2",
   "spriteId": {
     "name": "sprite393",
     "path": "sprites/sprite393/sprite393.yy",
@@ -283,27 +286,13 @@
     "SerialiseFrameCount": 1,
   },
   "macroPageTiles": {
+    "TileDataFormat": 1,
     "SerialiseWidth": 4,
     "SerialiseHeight": 5,
-    "TileSerialiseData": [
+    "TileCompressedData": [
+      -18,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
+      2,
       113,
       115,
     ],
@@ -312,8 +301,4 @@
     "name": "sky",
     "path": "folders/Tile Sets/sky.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "skyprops2",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

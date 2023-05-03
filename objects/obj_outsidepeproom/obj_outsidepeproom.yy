@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_outsidepeproom",
   "spriteId": {
     "name": "spr_secretwall2lvl2",
     "path": "sprites/spr_secretwall2lvl2/spr_secretwall2lvl2.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,7 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"parent":{"name":"obj_outsidepeproom","path":"objects/obj_outsidepeproom/obj_outsidepeproom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -29,8 +33,4 @@
     "name": "baddie",
     "path": "folders/Objects/generalobjects/baddie.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_outsidepeproom",
-  "tags": [],
-  "resourceType": "GMObject",
 }

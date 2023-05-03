@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "sky2",
   "spriteId": {
     "name": "tile_skyset",
     "path": "sprites/tile_skyset/tile_skyset.yy",
@@ -19,7 +22,7 @@
   "out_columns": 7,
   "tile_count": 48,
   "autoTileSets": [
-    {"tiles":[
+    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_1","tiles":[
         6,
         29,
         24,
@@ -67,7 +70,7 @@
         15,
         12,
         16,
-      ],"closed_edge":false,"resourceVersion":"1.0","name":"autotile_1","tags":[],"resourceType":"GMAutoTileSet",},
+      ],"closed_edge":false,},
   ],
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
@@ -133,8 +136,4 @@
     "name": "sky",
     "path": "folders/Tile Sets/sky.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sky2",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "coolpinea",
-    "path": "folders/Sprites/baddie/coolpinea.yy",
+    "path": "folders/Sprites/tilesets/castle/baddie/coolpinea.yy",
   },
 }

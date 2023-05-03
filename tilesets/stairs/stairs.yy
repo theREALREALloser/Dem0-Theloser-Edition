@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "stairs",
   "spriteId": {
     "name": "tile_stairs",
     "path": "sprites/tile_stairs/tile_stairs.yy",
@@ -51,8 +54,4 @@
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "stairs",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

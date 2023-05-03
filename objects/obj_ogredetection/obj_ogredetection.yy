@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_ogredetection",
   "spriteId": {
     "name": "sprite324",
     "path": "sprites/sprite324/sprite324.yy",
   },
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "level3",
     "path": "folders/Objects/proto/level3.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_ogredetection",
-  "tags": [],
-  "resourceType": "GMObject",
 }

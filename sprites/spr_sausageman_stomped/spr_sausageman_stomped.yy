@@ -75,6 +75,6 @@
   "nineSlice": null,
   "parent": {
     "name": "sausageman",
-    "path": "folders/Sprites/baddie/sausageman.yy",
+    "path": "folders/Sprites/tilesets/castle/baddie/sausageman.yy",
   },
 }

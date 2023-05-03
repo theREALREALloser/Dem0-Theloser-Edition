@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "goblin",
-    "path": "folders/Sprites/baddie/goblin.yy",
+    "path": "folders/Sprites/tilesets/castle/baddie/goblin.yy",
   },
 }

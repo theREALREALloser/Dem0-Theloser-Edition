@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "ancho",
-    "path": "folders/Sprites/baddie/ancho.yy",
+    "path": "folders/Sprites/tilesets/castle/baddie/ancho.yy",
   },
 }

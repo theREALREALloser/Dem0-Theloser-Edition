@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_escapebutton",
   "spriteId": {
     "name": "spr_escapebutton",
     "path": "sprites/spr_escapebutton/spr_escapebutton.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_escapebutton","path":"objects/obj_escapebutton/obj_escapebutton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,8 +36,4 @@
     "name": "escape",
     "path": "folders/Objects/generalobjects/escape.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_escapebutton",
-  "tags": [],
-  "resourceType": "GMObject",
 }

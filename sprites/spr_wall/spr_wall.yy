@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "collidable",
-    "path": "folders/Sprites/generalobjects/collidable.yy",
+    "name": "tilesets",
+    "path": "folders/Sprites/tilesets.yy",
   },
 }
