@@ -3,4 +3,4 @@ holy shit this is SO COOL AND IM SHITTING EVERYWHERE
 # THIS IS MAKING ME EXPOLDE ALL OVER THE PLACE
 okay all seriousness
 # Dem0 Theloser Edition
-this mod will try to update dem0 as i can or idk...
+this mod will try to update dem0 as i can or idk... Bo noise dlc coming soon when we finished shit or SOmething
