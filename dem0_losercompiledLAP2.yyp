@@ -698,6 +698,7 @@
     {"id":{"name":"pal_swap_set","path":"scripts/pal_swap_set/pal_swap_set.yy",},"order":8,},
     {"id":{"name":"pal_swap_set_tiles","path":"scripts/pal_swap_set_tiles/pal_swap_set_tiles.yy",},"order":9,},
     {"id":{"name":"__view_set","path":"scripts/__view_set/__view_set.yy",},"order":10,},
+    {"id":{"name":"obj_lapcollect","path":"objects/obj_lapcollect/obj_lapcollect.yy",},"order":9,},
     {"id":{"name":"__view_set_internal","path":"scripts/__view_set_internal/__view_set_internal.yy",},"order":11,},
     {"id":{"name":"__view_get","path":"scripts/__view_get/__view_get.yy",},"order":12,},
     {"id":{"name":"__init_view","path":"scripts/__init_view/__init_view.yy",},"order":13,},
