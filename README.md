@@ -1,5 +1,5 @@
 # Dem0-Theloser-Edition
-holy shit this is SO COOL AND IM SHITTING EVERYWHERE
+holy shit this is SO COOL AND IM SHITTING EVERYWHERE (ps: what the fuck is this loser? - pu40)
 # THIS IS MAKING ME EXPOLDE ALL OVER THE PLACE
 okay all seriousness
 # Dem0 Theloser Edition
