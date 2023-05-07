@@ -2,8 +2,27 @@
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
   "name": "volcano2",
+  "spriteId": {
+    "name": "frozenvolcano",
+    "path": "sprites/frozenvolcano/frozenvolcano.yy",
+  },
+  "tileWidth": 32,
+  "tileHeight": 32,
+  "tilexoff": 0,
+  "tileyoff": 0,
+  "tilehsep": 0,
+  "tilevsep": 0,
+  "spriteNoExport": true,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
+  "out_columns": 8,
+  "tile_count": 72,
   "autoTileSets": [
-    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_1","closed_edge":false,"tiles":[
+    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_1","tiles":[
         26,
         43,
         42,
@@ -51,30 +70,10 @@
         40,
         51,
         52,
-      ],},
+      ],"closed_edge":false,},
   ],
-  "macroPageTiles": {
-    "SerialiseHeight": 0,
-    "SerialiseWidth": 0,
-    "TileSerialiseData": [],
-  },
-  "out_columns": 8,
-  "out_tilehborder": 2,
-  "out_tilevborder": 2,
-  "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
-  },
-  "spriteId": {
-    "name": "frozenvolcano",
-    "path": "sprites/frozenvolcano/frozenvolcano.yy",
-  },
-  "spriteNoExport": true,
-  "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
-  },
-  "tile_count": 72,
+  "tileAnimationFrames": [],
+  "tileAnimationSpeed": 15.0,
   "tileAnimation": {
     "FrameData": [
       0,
@@ -152,12 +151,13 @@
     ],
     "SerialiseFrameCount": 1,
   },
-  "tileAnimationFrames": [],
-  "tileAnimationSpeed": 15.0,
-  "tileHeight": 32,
-  "tilehsep": 0,
-  "tilevsep": 0,
-  "tileWidth": 32,
-  "tilexoff": 0,
-  "tileyoff": 0,
+  "macroPageTiles": {
+    "SerialiseWidth": 0,
+    "SerialiseHeight": 0,
+    "TileSerialiseData": [],
+  },
+  "parent": {
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy",
+  },
 }
