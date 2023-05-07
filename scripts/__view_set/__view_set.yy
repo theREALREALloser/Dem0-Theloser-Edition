@@ -2,8 +2,8 @@
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
   "name": "__view_set",
-  "isDnD": false,
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "compatibility",
     "path": "folders/Scripts/compatibility.yy",
